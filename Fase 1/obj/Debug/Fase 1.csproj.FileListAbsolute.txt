@@ -1,0 +1,9 @@
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\bin\Debug\Fase 1.exe.config
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\bin\Debug\Fase 1.exe
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\bin\Debug\Fase 1.pdb
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\obj\Debug\Fase 1.csprojAssemblyReference.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\obj\Debug\Fase_1.Properties.Resources.resources
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\obj\Debug\Fase 1.csproj.GenerateResource.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\obj\Debug\Fase 1.exe
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\obj\Debug\Fase 1.pdb
+C:\Users\alexg\OneDrive\Documents\Landivar\Lenguajes formales y Automatas\Fase 1\Fase 1\obj\Debug\Fase_1.Form1.resources
